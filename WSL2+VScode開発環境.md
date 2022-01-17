@@ -35,3 +35,5 @@ sudo apt-get install git-flow
 ## VScodeでwsl内に接続する
 
 WSL内で`code .`で、VScodeがwsl内に接続した状態で起動する。
+
+拡張機能はローカル環境とは別で管理される。
